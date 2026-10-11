@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+models/
+outputs/
+renders/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.json
+!examples/*.json
